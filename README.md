@@ -3,4 +3,4 @@
 - 🌱 I Have good knowledge on AWS cloude and Devops tools
 - 💞️ I’m looking to collaborate on devops projects
 - 📫 How to reach me- prashantdhote007@gmail.com 
-- 👍 My git id is - prashant-79  
+- 👍 My github id is - prashant-79  
