@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant kumar dhote 
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning AWS cloude and Devops tools
+- 👀 I’m Devops Engineer
+- 🌱 I Have good knowledge on AWS cloude and Devops tools
 - 💞️ I’m looking to collaborate on devops projects
 - 📫 How to reach me- prashantdhote007@gmail.com 
 - 👍 My git id is - prashant-79  
